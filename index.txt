@@ -1,5 +1,4 @@
-SCEO - Seo agency website
-
+PRTEAM
 
 
 # HEADER
@@ -11,8 +10,8 @@ alt = SCEO logo
 
 Home
 Service
-About
 Features
+About
 Pricing
 FAQ's
 
@@ -24,14 +23,14 @@ Let's Started
 
 Get more sales with SEO, PPC, and Email Marketing
 
-placeholder = Enter your name*
-placeholder = Enter your email*
+placeholder = Enter your name
+placeholder = Enter your email
 
 Get started now
 
-Free 30 days trial
+Free 2 days trial
 Exclusive Support
-No Fees
+Start Fees
 
 alt = Seo illustration
 
@@ -169,7 +168,7 @@ Ask your question here
 
 # CTA
 
-Try SCEO free for 14 days. Start your trial now and pick a plan later
+Try SCEO free for 1 days. Start your trial now and pick a plan later
 
 Get started now
 
